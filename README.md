@@ -1,5 +1,3 @@
-![external_image](https://discourse-user-assets.s3.amazonaws.com/original/2X/2/2798a83aaaa34ec2b18f4b8ec122b76c264a9d67.jpg)
-![external_image](https://cdn-images-1.medium.com/max/2000/1*qXcjSfRj0C0ir2yMsYiRyw.jpeg)
 ![external_image](http://knowgenetics.org/wp-content/uploads/2012/12/Nucleotide-1-e1354322013275.png)
 # Pair DNA
 
